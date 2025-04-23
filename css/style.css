@@ -17,33 +17,6 @@ html{
 body{
     overflow-x: hidden;
 }
-.contact-info {
-    background-color: #a3ebfd;
-    color: #000000;
-    padding: 20px;
-    padding-left: 30px;
-    border-left: white;
-    border-radius: 12px;
-    max-width: 400px;
-    margin: 0 auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-}
-
-.contact-info p {
-    margin: 10px 0;
-    font-size: 16px;
-    line-height: 1.6;
-}
-
-.contact-info a {
-    color: #1e90ff;
-    text-decoration: none;
-}
-
-.contact-info a:hover {
-    text-decoration: underline;
-}
 
 .heading, .clients .section-header h2, .section-head h1, .testimonials .section-header h2, .section-head-1 h4{
     margin: 2rem;
@@ -177,7 +150,7 @@ body{
 .home{
     min-height: 100vh;
     width: 100vw;
-    background-image: url(../images/ELEVATE.jpeg);
+    background-image: url(../images/background.jpeg);
     background-size: cover;
     display: flex;
     align-items: center;
